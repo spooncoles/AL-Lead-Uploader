@@ -1,0 +1,24 @@
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\bin\Debug\AL Lead Uploader.exe.config
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\bin\Debug\AL Lead Uploader.exe
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\bin\Debug\AL Lead Uploader.pdb
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\bin\Debug\AL Lead Uploader.xml
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\bin\Debug\MySql.Data.dll
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\obj\Debug\AL Lead Uploader.vbprojResolveAssemblyReference.cache
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\obj\Debug\AL_Lead_Uploader.Form1.resources
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\obj\Debug\AL_Lead_Uploader.Resources.resources
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\obj\Debug\AL Lead Uploader.vbproj.GenerateResource.Cache
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\obj\Debug\AL Lead Uploader.exe
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\obj\Debug\AL Lead Uploader.xml
+C:\Users\Dean\AppData\Local\Temporary Projects\AL Lead Uploader\obj\Debug\AL Lead Uploader.pdb
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\bin\Debug\AL Lead Uploader.exe.config
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\obj\Debug\AL Lead Uploader.exe
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\obj\Debug\AL Lead Uploader.xml
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\obj\Debug\AL Lead Uploader.pdb
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\bin\Debug\AL Lead Uploader.exe
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\bin\Debug\AL Lead Uploader.pdb
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\bin\Debug\AL Lead Uploader.xml
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\bin\Debug\MySql.Data.dll
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\obj\Debug\AL Lead Uploader.vbprojResolveAssemblyReference.cache
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\obj\Debug\AL_Lead_Uploader.Form1.resources
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\obj\Debug\AL_Lead_Uploader.Resources.resources
+D:\System Programs\AL Lead Uploader\AL Lead Uploader\obj\Debug\AL Lead Uploader.vbproj.GenerateResource.Cache
