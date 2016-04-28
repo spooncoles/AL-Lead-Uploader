@@ -2,6 +2,9 @@
 Imports Microsoft.Office.Interop
 
 Public Class Form1
+
+    'TEST COMMENT FOR GITHUB
+
     'Dim conn.conSQL As MySqlConnection = New MySqlConnection("Data Source=196.44.211.224;Database=AssetLife;User=structest_mysql;Password=Z35tL1f3!PWD")
     'Dim conn.comSQL As MySqlCommand = New MySqlCommand(Nothing, conn.conSQL)
     'Dim conn.daSQL As MySqlDataAdapter = New MySqlDataAdapter(Nothing, conn.conSQL)
